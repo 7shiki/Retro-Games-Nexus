@@ -1,4 +1,4 @@
-# Retro Games Nexus
+# Retro Games Nexus  - Play Classic Retro Games & Emulator Games Online for Free
 
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://retrogamesnexus.com/)
 
