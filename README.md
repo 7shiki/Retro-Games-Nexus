@@ -39,4 +39,4 @@ For any questions or business inquiries, please contact us at:
 * **Support**: `support@retrogamesnexus.com`
 
 ---
-*© 2024 Retro Games Nexus - All Rights Reserved.*
+*© 2025 Retro Games Nexus - All Rights Reserved.*
