@@ -16,6 +16,9 @@ Retro Games Nexus is an online platform that lets you instantly play classic vid
 * **Cross-Device Ready**: Get a smooth, consistent experience whether you're on a desktop, tablet, or mobile phone.
 * **Multilingual Interface**: We support multiple languages to serve the global community of retro gaming fans.
 * **Curated Library**: Our game library is carefully selected to include the most beloved and iconic titles of the golden era.
+* **Free Embed**: Embed this retro game into your website and let visitors play directly on your page
+
+
 
 ## Our Mission
 
